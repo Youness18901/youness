@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ESMA Marrakech</title>
+    <link rel="stylesheet" href="untitled-1.css"/>
+</head>
+<body>
+    <body bgcolor="white">
+
+        <div id="header">
+            <img src="ESMA.png" alt="256" width="200">
+        </div>
+    <div id="contenu">    
+    <div id="left">
+        <a href="Untitled-1.html">
+    <button>ACCUEIL</button><br><br>
+    </a>
+    <a href="presentation page.html">
+    <button>PRESENTATION</button><br><br>
+    </a>
+    <button>DIPLOME ACCREDITE </button><br><br>
+    <button>DIPLOME D'ETAT FRANCAIS</button><br><br>
+    <a href="parascolaire.html">
+    <button>PARASCOLAIRE</button><br><br>
+    </a>
+    <a href="contact.html">
+    <button>CONTACT</button><br><br>
+ </a>
+    <a href="">
+    <button>INSCRIPTION</button><br><br>
+    </a>
+   </div>
+    <div id="right">
+       <img src="work.jpg" .alt="46568554156" width="1100" height="400">
+    </div>
+    <script src="untitled-1.js"></script>
+    </div>
+    <br>
+    <h4><strong>----NOS PARTENAIRES----</strong></h4>
+    <br>
+      <img src="le cnam.png".alt="image1" >
+    <img src="paris 13.png".alt="image1" >
+    <img src="ulco (2).jpg".alt="image1" >
+    <img src="iae.png".alt="image1" height="150">
+    <img src="université.png" .alt="image5" height="180">
+    <br><br>
+    <h4><strong>----EVENEMENT D'ESMA----</strong></h4>
+    <div id="div1">
+        <h3>ESMA DEVIENT  PARTENAIRE DU CNAM PARIS</h3>
+        <p>NOUVEAU A ESMA en partenariat avec le CNAM<br>-PARIS, lance la Licence d'Etat Commerce Vente<br> Markerting en Formation Continue</p>
+    </div>
+    <div id="div2">
+        <h3>INSCRIPTION EN LINCENCE CONTROLE DE<br>GESTION AUDIT-UNIVERSITE LA SORBONNE<br> PARIS CITE</h3>
+        <p>Formation Continue (Cours Week End) ESMA  lance les <br>inscriptions en Licence Métiers de la Comptabilité<br>Spécialité Contrôle de Gestion et ...etc</p>
+    </div>
+    <div id="div3">
+     <h4>UNIQUE A MARRAKECH: LANCEMENT DU MBA FINANCE-COMPTABILITE</h4>
+     <p>ESMA lance Le MBA finance Comptabilite  Master in <br>Business Administration, Diplome délivré par L'ESC<br> Clermont-Ferrand</p>
+    </div>
+    <div id="div4">
+        <h3>UNIQUE A MARRAKECH : MASTER MIAGE M1 ET<br> M2</h3>
+        <p>ESMA et l'université Picardie Jules Verne proposent un<br> Unique MASTER MIAGE M1 et M2 MIAGE en e-learning<br> Option Systèmes</p>
+    </div>
+    <div id="div5">
+        <h3>INSCRIPTION EN CYCLES ACCREDITE BAC+3 -<br> BAC+5</h3>
+        <p>Les inscriptions en Cycles Normal de l'ESMA sont ouvertes jusqu'au 20 Octobre 2018</p>
+    </div>
+</body>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<footer>
+    <ul><h5>COORDONEE</h5></ul>
+<p>1, AV My Abdellah (ex Safi) Rouidate 1 Imm. BERRADA Guéliz – Marrakech<br><li>Gmail : contact@esmamaroc.ma</li><br>
+    <li>Num tel : 05 24 33 11 25</li></p>
+</footer>
+</html>
